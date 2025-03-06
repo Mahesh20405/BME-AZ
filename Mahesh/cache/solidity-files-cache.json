@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\BME\\Mahesh\\contracts\\Agent.sol": {
+      "lastModificationDate": 1738429505856,
+      "contentHash": "4dcb7db1fad65952206aa88978b2d002",
+      "sourceName": "contracts/Agent.sol",
+      "solcConfig": {
+        "version": "0.5.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.5.1"
+      ],
+      "artifacts": [
+        "Agent"
+      ]
+    },
+    "E:\\BME\\Mahesh\\contracts\\Migrations.sol": {
+      "lastModificationDate": 1738429505858,
+      "contentHash": "f421fe3f1e1fb5f520959c61b6aee091",
+      "sourceName": "contracts/Migrations.sol",
+      "solcConfig": {
+        "version": "0.5.1",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.5.1"
+      ],
+      "artifacts": [
+        "Migrations"
+      ]
+    }
+  }
+}
